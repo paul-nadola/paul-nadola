@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paul-nadola" alt="paul-nadola" /></a> </p>
 
-- 🔭 I’m currently working on **Airbnb clone.**
+- 🔭 I’m currently working on **A self-sufficient insurance system.**
 
-- 🌱 I’m currently learning **Angular and Tailwind.**
+- 🌱 I’m currently learning **Angular and Spring Boot.**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
-- 🤝 I’m looking for help with **Typescript and Django.**
+- 🤝 I’m looking for help with **Typescript.**
 
 - 👨‍💻 All of my projects are available at [https://paul-nadola.github.io/personal-website/](https://paul-nadola.github.io/personal-website/)
 
